@@ -1,0 +1,131 @@
+# Part 3 Result
+MTF: size: 4000 averageInsertRuntime: 2.1910226666666668E7 averageFindRuntime: 39053.333333333336
+BST: size: 4000 averageInsertRuntime: 3.4008993333333336E7 averageFindRuntime: 17026.666666666668
+AVL: size: 4000 averageInsertRuntime: 4.5176746666666664E7 averageFindRuntime: 18060.0
+MTF: size: 8000 averageInsertRuntime: 4.5307426666666664E7 averageFindRuntime: 18973.333333333332
+BST: size: 8000 averageInsertRuntime: 6.761004E7 averageFindRuntime: 13886.666666666666
+AVL: size: 8000 averageInsertRuntime: 8.944226666666667E7 averageFindRuntime: 14426.666666666666
+MTF: size: 16000 averageInsertRuntime: 1.0075780666666667E8 averageFindRuntime: 37926.666666666664
+BST: size: 16000 averageInsertRuntime: 1.4689268E8 averageFindRuntime: 13053.333333333334
+AVL: size: 16000 averageInsertRuntime: 1.9565189333333334E8 averageFindRuntime: 15666.666666666666
+MTF: size: 32000 averageInsertRuntime: 2.1926342E8 averageFindRuntime: 48066.666666666664
+BST: size: 32000 averageInsertRuntime: 3.2357148E8 averageFindRuntime: 23133.333333333332
+AVL: size: 32000 averageInsertRuntime: 4.454031733333333E8 averageFindRuntime: 28626.666666666668
+MTF: size: 64000 averageInsertRuntime: 5.000395333333333E8 averageFindRuntime: 35453.333333333336
+BST: size: 64000 averageInsertRuntime: 7.675179133333334E8 averageFindRuntime: 31486.666666666668
+AVL: size: 64000 averageInsertRuntime: 1.13675646E9 averageFindRuntime: 45106.666666666664
+
+find size = 6, 100/20, 4000-128000
+MTF: size: 4000 averageInsertRuntime: 2.4789546666666668E7 averageFindRuntime: 4907.133333333333
+BST: size: 4000 averageInsertRuntime: 3.518046E7 averageFindRuntime: 4267.8
+AVL: size: 4000 averageInsertRuntime: 4.3435306666666664E7 averageFindRuntime: 4250.466666666666
+MTF: size: 8000 averageInsertRuntime: 5.1435006666666664E7 averageFindRuntime: 3351.133333333333
+BST: size: 8000 averageInsertRuntime: 7.132241333333333E7 averageFindRuntime: 3372.0666666666666
+AVL: size: 8000 averageInsertRuntime: 8.899585333333333E7 averageFindRuntime: 3429.2
+MTF: size: 16000 averageInsertRuntime: 1.1465694666666667E8 averageFindRuntime: 3858.9333333333334
+BST: size: 16000 averageInsertRuntime: 1.5493296E8 averageFindRuntime: 3502.733333333333
+AVL: size: 16000 averageInsertRuntime: 1.9078667333333334E8 averageFindRuntime: 3870.133333333333
+MTF: size: 32000 averageInsertRuntime: 2.4654527333333334E8 averageFindRuntime: 4679.066666666667
+BST: size: 32000 averageInsertRuntime: 3.295072533333333E8 averageFindRuntime: 4986.0
+AVL: size: 32000 averageInsertRuntime: 4.225680533333333E8 averageFindRuntime: 5960.466666666666
+MTF: size: 64000 averageInsertRuntime: 5.6030238E8 averageFindRuntime: 7415.933333333333
+BST: size: 64000 averageInsertRuntime: 7.884665466666666E8 averageFindRuntime: 6543.533333333334
+AVL: size: 64000 averageInsertRuntime: 1.07148188E9 averageFindRuntime: 7928.8
+MTF: size: 128000 averageInsertRuntime: 2.0023229066666667E9 averageFindRuntime: 13308.266666666666
+BST: size: 128000 averageInsertRuntime: 2.66987058E9 averageFindRuntime: 10630.133333333333
+AVL: size: 128000 averageInsertRuntime: 3.513868E9 averageFindRuntime: 12314.266666666666
+
+find size = 15, random run = 10, 200/50, 1000-64000
+MTF: size: 1000 averageInsertRuntime: 60970.13333333333 averageFindRuntime: 21.451333333333334
+BST: size: 1000 averageInsertRuntime: 102116.33333333333 averageFindRuntime: 22.694
+AVL: size: 1000 averageInsertRuntime: 123393.53333333334 averageFindRuntime: 25.048
+MTF: size: 2000 averageInsertRuntime: 117987.6 averageFindRuntime: 19.672
+BST: size: 2000 averageInsertRuntime: 187475.66666666666 averageFindRuntime: 21.751333333333335
+AVL: size: 2000 averageInsertRuntime: 254338.4 averageFindRuntime: 25.994666666666667
+MTF: size: 4000 averageInsertRuntime: 258220.2 averageFindRuntime: 28.022666666666666
+BST: size: 4000 averageInsertRuntime: 395653.06666666665 averageFindRuntime: 26.394666666666666
+AVL: size: 4000 averageInsertRuntime: 536976.9333333333 averageFindRuntime: 29.05666666666667
+MTF: size: 8000 averageInsertRuntime: 565472.5333333333 averageFindRuntime: 32.913333333333334
+BST: size: 8000 averageInsertRuntime: 837421.3333333334 averageFindRuntime: 28.814666666666668
+AVL: size: 8000 averageInsertRuntime: 1118945.7333333334 averageFindRuntime: 33.584666666666664
+MTF: size: 16000 averageInsertRuntime: 1244392.0 averageFindRuntime: 39.028666666666666
+BST: size: 16000 averageInsertRuntime: 1853207.1333333333 averageFindRuntime: 33.23466666666667
+AVL: size: 16000 averageInsertRuntime: 2404978.2666666666 averageFindRuntime: 39.06466666666667
+MTF: size: 32000 averageInsertRuntime: 2704930.533333333 averageFindRuntime: 47.9
+BST: size: 32000 averageInsertRuntime: 3891660.1333333333 averageFindRuntime: 43.376666666666665
+AVL: size: 32000 averageInsertRuntime: 5346128.666666667 averageFindRuntime: 59.163333333333334
+MTF: size: 64000 averageInsertRuntime: 6053192.4 averageFindRuntime: 64.94466666666666
+BST: size: 64000 averageInsertRuntime: 9115544.2 averageFindRuntime: 63.438
+AVL: size: 64000 averageInsertRuntime: 1.35145258E7 averageFindRuntime: 87.888
+
+
+
+
+**new
+find:20  200/50
+MTF: size: 1000 averageInsertRuntime: 102842.66666666667 averageFindRuntime: 751.3333333333334
+BST: size: 1000 averageInsertRuntime: 145102.0 averageFindRuntime: 742.6666666666666
+AVL: size: 1000 averageInsertRuntime: 212733.33333333334 averageFindRuntime: 715.3333333333334
+MTF: size: 2000 averageInsertRuntime: 131082.66666666666 averageFindRuntime: 710.6666666666666
+BST: size: 2000 averageInsertRuntime: 198144.0 averageFindRuntime: 512.6666666666666
+AVL: size: 2000 averageInsertRuntime: 250628.66666666666 averageFindRuntime: 532.0
+MTF: size: 4000 averageInsertRuntime: 276232.6666666667 averageFindRuntime: 738.0
+BST: size: 4000 averageInsertRuntime: 416002.0 averageFindRuntime: 665.3333333333334
+AVL: size: 4000 averageInsertRuntime: 519164.6666666667 averageFindRuntime: 684.0
+MTF: size: 8000 averageInsertRuntime: 590808.0 averageFindRuntime: 754.6666666666666
+BST: size: 8000 averageInsertRuntime: 859331.3333333334 averageFindRuntime: 638.0
+AVL: size: 8000 averageInsertRuntime: 1096626.6666666667 averageFindRuntime: 658.6666666666666
+MTF: size: 16000 averageInsertRuntime: 1294079.3333333333 averageFindRuntime: 976.0
+BST: size: 16000 averageInsertRuntime: 1894316.0 averageFindRuntime: 816.6666666666666
+AVL: size: 16000 averageInsertRuntime: 2484780.0 averageFindRuntime: 856.0
+MTF: size: 32000 averageInsertRuntime: 2977316.0 averageFindRuntime: 1235.3333333333333
+BST: size: 32000 averageInsertRuntime: 4425250.0 averageFindRuntime: 1122.0
+AVL: size: 32000 averageInsertRuntime: 5876272.0 averageFindRuntime: 1388.6666666666667
+MTF: size: 64000 averageInsertRuntime: 6599186.666666667 averageFindRuntime: 1423.3333333333333
+BST: size: 64000 averageInsertRuntime: 9769238.0 averageFindRuntime: 1358.0
+AVL: size: 64000 averageInsertRuntime: 1.3427586666666666E7 averageFindRuntime: 1640.6666666666667
+MTF: size: 128000 averageInsertRuntime: 1.8951978E7 averageFindRuntime: 2060.6666666666665
+BST: size: 128000 averageInsertRuntime: 2.87749E7 averageFindRuntime: 2036.6666666666667
+AVL: size: 128000 averageInsertRuntime: 4.4402550666666664E7 averageFindRuntime: 2122.6666666666665
+MTF: size: 256000 averageInsertRuntime: 5.3771644E7 averageFindRuntime: 2674.6666666666665
+BST: size: 256000 averageInsertRuntime: 7.184086133333333E7 averageFindRuntime: 2283.3333333333335
+AVL: size: 256000 averageInsertRuntime: 1.1218132266666667E8 averageFindRuntime: 2610.0
+
+find: 100  100/400
+MTF: size: 1000 averageInsertRuntime: 74781.66666666667 averageFindRuntime: 2229.3333333333335
+BST: size: 1000 averageInsertRuntime: 109706.33333333333 averageFindRuntime: 2036.3333333333333
+AVL: size: 1000 averageInsertRuntime: 154363.33333333334 averageFindRuntime: 2176.6666666666665
+MTF: size: 2000 averageInsertRuntime: 128044.0 averageFindRuntime: 2323.3333333333335
+BST: size: 2000 averageInsertRuntime: 194424.33333333334 averageFindRuntime: 2100.0
+AVL: size: 2000 averageInsertRuntime: 256432.0 averageFindRuntime: 2354.6666666666665
+MTF: size: 4000 averageInsertRuntime: 289373.3333333333 averageFindRuntime: 3146.3333333333335
+BST: size: 4000 averageInsertRuntime: 430799.3333333333 averageFindRuntime: 2841.3333333333335
+AVL: size: 4000 averageInsertRuntime: 549326.6666666666 averageFindRuntime: 3021.3333333333335
+MTF: size: 8000 averageInsertRuntime: 621982.3333333334 averageFindRuntime: 3665.3333333333335
+BST: size: 8000 averageInsertRuntime: 923988.6666666666 averageFindRuntime: 2972.0
+AVL: size: 8000 averageInsertRuntime: 1161786.3333333333 averageFindRuntime: 3349.0
+MTF: size: 16000 averageInsertRuntime: 1308597.3333333333 averageFindRuntime: 3853.3333333333335
+BST: size: 16000 averageInsertRuntime: 1902096.6666666667 averageFindRuntime: 3288.3333333333335
+AVL: size: 16000 averageInsertRuntime: 2443174.6666666665 averageFindRuntime: 3647.6666666666665
+MTF: size: 32000 averageInsertRuntime: 2908367.0 averageFindRuntime: 4592.0
+BST: size: 32000 averageInsertRuntime: 4287506.666666667 averageFindRuntime: 4491.0
+AVL: size: 32000 averageInsertRuntime: 5774481.333333333 averageFindRuntime: 5657.333333333333
+MTF: size: 64000 averageInsertRuntime: 6624501.0 averageFindRuntime: 6230.666666666667
+BST: size: 64000 averageInsertRuntime: 1.0227403E7 averageFindRuntime: 5783.666666666667
+AVL: size: 64000 averageInsertRuntime: 1.437467E7 averageFindRuntime: 7405.333333333333
+MTF: size: 128000 averageInsertRuntime: 2.5127440666666668E7 averageFindRuntime: 9530.666666666666
+BST: size: 128000 averageInsertRuntime: 3.8442514E7 averageFindRuntime: 9261.333333333334
+AVL: size: 128000 averageInsertRuntime: 4.7670343E7 averageFindRuntime: 10499.333333333334
+MTF: size: 256000 averageInsertRuntime: 7.1268482E7 averageFindRuntime: 12766.333333333334
+BST: size: 256000 averageInsertRuntime: 9.952647833333333E7 averageFindRuntime: 11445.0
+AVL: size: 256000 averageInsertRuntime: 1.2897617366666667E8 averageFindRuntime: 12822.333333333334
+
+# Part 5 Result
+BST:
+283543.54639175255
+AVL:
+253541.86597938143
+CHT:
+44676.71134020619
+HTM:
+97424.9587628866
